@@ -1,0 +1,33 @@
+a {
+	margin-right: 10px;
+}
+h2 {
+	text-decoration: underline;
+	margin-bottom: 20px;
+}
+a,
+h2 {
+	color: #888;
+}
+a:hover {
+	color: #656565;
+	pointer: cursor;
+}
+th, 
+td {
+	padding: 5px;
+	margin: 2px 0 0;
+}
+.emp-list-view th, 
+.emp-list-view td {
+	text-align: center;
+	margin: 0;
+}
+.log-out-link {
+	display: inline-block;
+	float: right;
+	padding-top: 25px;
+}
+.name {
+	color: #000;
+}
